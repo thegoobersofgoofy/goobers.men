@@ -1,0 +1,33 @@
+:root {
+    /* background: url(/bigrat.jpg); */
+    background: #222;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 40px;
+    /* border: 1px solid red; */
+    background: #22c;
+    border-radius: 8px 8px 0 0;
+    padding: 4px;
+}
+
+p {
+    margin: 0;
+}
+
+nav {
+    
+}
+
+nav a {
+    color: #fff;
+}
+
+main {
+    background: #fff;
+    padding: 4px;
+}
